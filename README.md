@@ -14,3 +14,14 @@ This analysis is designed for prospective and existing restaurant owners in Bang
 - How does the Restaurant Type impact Popularity and Sentiment?
 - How does pricing impact popularity and sentiment?
 - What are the most frequent review topics?
+
+# Data
+The analysis is based on the Zomato Bangalore Dataset, sourced from Kaggle. It contains details on approximately 12,000 restaurants, including location, cuisine type, reviews, and ratings. The data was scraped from Zomato’s platform, providing insights into Bengaluru’s dining landscape.
+Data set link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data
+
+**Limitations:**
+The dataset is limited to March 2019, meaning it may not reflect recent trends or restaurant changes.
+Since the data is user-generated, it may contain biases and inaccuracies.
+
+**Relevancy:**
+This dataset is valuable for analyzing consumer preferences, restaurant popularity, and market trends in Bengaluru. It can help businesses make strategic decisions on location, menu offerings, and pricing to stay competitive in the city’s fast-growing food industry.
