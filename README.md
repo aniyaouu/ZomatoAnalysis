@@ -25,3 +25,13 @@ Since the data is user-generated, it may contain biases and inaccuracies.
 
 **Relevancy:**
 This dataset is valuable for analyzing consumer preferences, restaurant popularity, and market trends in Bengaluru. It can help businesses make strategic decisions on location, menu offerings, and pricing to stay competitive in the city’s fast-growing food industry.
+
+# Methods
+
+- Sourcing Open Data
+- Exploratory visual analysis with Python
+- Geographical visualisations with Python
+- Supervised Machine Learning: Regression
+- Unsupervised Machine Learning: Clustering
+- Time Series Analysis with Python
+- Creating interactive Tableau Story
