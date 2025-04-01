@@ -1,5 +1,5 @@
-# ZomatoAnalysis
-Insights into Bangalore's restaurant landscape
+# Zomato Analysis
+**Insights into Bangalore's restaurant landscape**
 
 ## Objective
 This analysis is designed for prospective and existing restaurant owners in Bangalore, providing insights to optimize restaurant performance, enhance customer satisfaction, and identify strategic expansion opportunities. It includes data-driven recommendations on location, menu selection, cuisine preferences, and pricing strategies to align with market demand.
